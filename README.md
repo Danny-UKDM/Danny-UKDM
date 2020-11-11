@@ -4,6 +4,7 @@
 
 - 🔭 I’m currently working on acquiring my [AWS Certified Developer - Associate](https://aws.amazon.com/certification/certified-developer-associate/) qualification.
 - 🌱 I’m currently learning more advanced paradigms and patterns for effectively working with serverless technology and microservices.
+- 📚 I'm currently reading an array of self-improvement books; for both personal and professional growth.
 - 🤔 I’m looking for help with forming an effective and measureable career progression framework.
 - 🥅 A current goal for me is to contribute more to Open Source projects.
 - 💬 Ask me about my plants and pets (no, really)! 🌿🐍
