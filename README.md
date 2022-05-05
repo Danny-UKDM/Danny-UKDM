@@ -41,3 +41,5 @@
 ### Connect with me 🔗
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linked In" />](https://www.linkedin.com/in/danny-parker-264aa210a/) [<img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" alt="GMail" />](mailto:danny.ukdm@gmail.com) [<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />](https://www.facebook.com/panny.darker) [<img src="https://img.shields.io/badge/soundcloud-FF3300?logo=soundcloud&logoColor=white&style=for-the-badge" alt="Soundcloud" />](https://soundcloud.com/im-tiny-rick) [<img src="https://img.shields.io/badge/Steam-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />](https://steamcommunity.com/profiles/76561198084988343/)
+
+![](https://hit.yhype.me/github/profile?user_id=16237974)
